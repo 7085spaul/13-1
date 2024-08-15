@@ -1,0 +1,115 @@
+        header {
+            background-color: lightgrey;
+            text-align: center;
+            padding: 64px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            border-bottom: 2px solid #ccc
+        }
+        
+        img {
+            display: block;
+            width: 690px;
+            /* position: relative;
+                bottom: 297px; */
+            margin: 10px;
+            border: 2px solid #000;
+            border-radius: 10px;
+        }
+        
+        h1 {
+            color: red;
+        }
+        
+        .justify {
+            width: 700px;
+            display: block;
+            /* Change from inline-block to block */
+            margin-top: 10px;
+            /* Adds space above the .justify container */
+            text-align: justify;
+            height: auto;
+            /* Change from fixed height to auto to fit content */
+            border: 2px solid #000;
+            border-radius: 10px;
+            background-color: aquamarine;
+        }
+        
+        p {
+            width: 700px;
+            display: block;
+        }
+        
+        .container1 {
+            background-color: lightgrey;
+            width: 500px;
+            height: 300px;
+            border: 2px solid #000;
+            /* Added black border for the containers */
+            border-radius: 10px;
+            display: inline-block;
+            margin-left: 740px;
+            position: relative;
+            bottom: 900px;
+        }
+        
+        .justify1 {
+            width: 500px;
+            text-align: justify;
+            display: inline-block;
+        }
+        
+        .container2 {
+            background-color: lightgrey;
+            width: 500px;
+            height: 300px;
+            margin: 10px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            display: block;
+            margin-left: 740px;
+            position: relative;
+            bottom: 900px;
+        }
+        
+        .justify2 {
+            width: 500px;
+            text-align: justify;
+            display: block;
+        }
+        
+        .container3 {
+            background-color: lightgrey;
+            width: 500px;
+            height: 300px;
+            margin: 10px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            display: inline-block;
+            margin-left: 740px;
+            position: relative;
+            bottom: 900px;
+        }
+        
+        .justify3 {
+            display: inline-block;
+            width: 500px;
+            text-align: justify;
+        }
+        
+        h2 {
+            color: blue;
+        }
+        
+        body {
+            background-color: aqua;
+        }
+        
+        marquee {
+            font-size: 1.2em;
+            color: red;
+            padding: 5px;
+            background-color: #fff;
+            border: 1px solid #000;
+            border-radius: 5px;
+        }
